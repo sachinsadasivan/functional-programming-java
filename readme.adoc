@@ -4,10 +4,10 @@ Functional Programming with Lambdas and Streams is an exciting addition to Java 
 
 ## Understanding Lambdas
 
-Lambdas enables Functional Programming
-Lambdas help us to write Readable and Concise Code
-Easier to use better APIs and libraries
-Lambdas enables support for parallel processing
+. Lambdas enables Functional Programming
+. Lambdas help us to write Readable and Concise Code
+. Easier to use better APIs and libraries
+. Lambdas enables support for parallel processing
 
 
 ## Using Lambdas
