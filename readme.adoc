@@ -26,15 +26,12 @@ Functional Interfaces::
 * Object Reference Example
 
 
-## Method References
+Method References::
+* Another way of writing Lambda expressions
+* More Concise and Expressional
 
-Another way of writing Lambda expressions
-More Concise and Expressional
-
-
-## Collection Improvements in the context of Lambdas
-
-Internal Iterations
-Stream
+Collection Improvements in the context of Lambdas::
+* Internal Iterations
+* Stream
 
 
