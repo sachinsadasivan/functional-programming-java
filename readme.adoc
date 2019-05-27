@@ -4,21 +4,40 @@ Functional Programming with Lambdas and Streams is an exciting addition to Java 
 
 ## Understanding Lambdas
 
-TO DO
+Lambdas enables Functional Programming
+Lambdas help us to write Readable and Concise Code
+Easier to use better APIs and libraries
+Lambdas enables support for parallel processing
+
 
 ## Using Lambdas
 
-TO DO
+Functions as Values
+
 ## Functional Interfaces
 
-TO DO
+Lambda as Interface Type
+Lambdas vs Interface Implementations
+Interface implementations implements a Class
+Lambdas implements a function
+Type Inference
+Why an Interface Type for Lambda?
+Backward Compatibility
+Lambdas works with legacy APIs
+Code Example using Runnable
+Lambdas vs Objects
+Object Reference Example
+
 
 ## Method References
 
-TO DO
+Another way of writing Lambda expressions
+More Concise and Expressional
+
 
 ## Collection Improvements in the context of Lambdas
 
-TO DO
+Internal Iterations
+Stream
 
 
